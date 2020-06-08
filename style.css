@@ -312,7 +312,7 @@ padding-block-end: 0%;
 .card{
     width: 37rem;
     height: 45rem;
-    box-shadow: 0 1rem 4rem rgba(155,45,56,.4);
+    box-shadow: 0 1rem 4rem rgba(255,1,30.4);
     opacity: .4rem;
 }
 .card-img-wrapper{
