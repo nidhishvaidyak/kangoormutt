@@ -312,7 +312,7 @@ padding-block-end: 0%;
 .card{
     width: 37rem;
     height: 45rem;
-    box-shadow: 0 1rem 4rem rgba(155,45,56,.4)
+    box-shadow: 0 1rem 4rem rgba(155,45,56,.4);
     opacity: .4rem;
 }
 .card-img-wrapper{
@@ -349,6 +349,4 @@ padding-block-end: 0%;
     background-color: #eee;
     padding:3rem 10rem 10rem 10rem;
     background-image: url(images/bg4.jpg);
-
-
 }
