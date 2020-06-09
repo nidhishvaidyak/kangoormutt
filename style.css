@@ -185,7 +185,7 @@ html {
     top: 0;
     right:-35rem;
     background-color:lavender;
-    transition: right .5s;
+    transition: right .9s;
     z-index: 100;
 }
 .change .sidebar{
@@ -351,7 +351,4 @@ padding-block-end: 0%;
     background-color: #eee;
     padding:3rem 10rem 10rem 10rem;
     background-image: url(images/bg4.jpg);
-}
-.w3-row{
-    background-color: #4b4b4b;
 }
