@@ -121,7 +121,7 @@ html {
 }
 .banner{
     position: absolute;
-    top: 30%;
+    top: 15%;
     left: 5%;
 }
 .banner h1{
@@ -351,4 +351,7 @@ padding-block-end: 0%;
     background-color: #eee;
     padding:3rem 10rem 10rem 10rem;
     background-image: url(images/bg4.jpg);
+}
+.w3-row{
+    background-color: #4b4b4b;
 }
